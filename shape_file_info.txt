@@ -1,0 +1,29 @@
+
+   Square
+x = 2
+y = 3
+a = 5
+
+
+   Rectangle
+x = 2
+y = 3
+a = 5
+b = 10
+
+
+   Circle
+x = 2
+y = 3
+a = 5
+b = 10
+r = 5
+
+
+   Ellipse
+x = 2
+y = 3
+a = 5
+b = 10
+r = 5
+
